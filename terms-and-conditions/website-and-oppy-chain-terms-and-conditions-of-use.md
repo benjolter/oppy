@@ -114,11 +114,13 @@ DEEP THOUGHT VENTURES 42 INC does not grant you any other rights whatsoever in r
 
 (d) You may not, without the prior written permission of DEEP THOUGHT VENTURES 42 INC and the permission of any other relevant rights owners: broadcast, republish, up-load to a third party, transmit, post, distribute, show or play in public, adapt or change in any way the Services or third party Services for any purpose, unless otherwise provided by these Terms. This prohibition does not extend to materials on the Website, which are freely available for reuse or are in the public domain.
 
-## 8. Privacy
+
+
+## 7. Privacy
 
 &#x20; (a) (a)DEEP THOUGHT VENTURES 42 INC takes your privacy seriously and any information provided through your use of the Website and/or Services are subject to DEEP THOUGHT VENTURES 42 INC's Privacy Policy.
 
-## &#x20; 9. General Disclaimer
+## 8. General Disclaimer
 
 (a) We may update the content on, design of, or functionalities and Services available through this Website from time to time without notice, but the Website is not necessarily complete or up-to-date. Any of the material on the Website may be out of date at any given time, and we are under no obligation to update such material.&#x20;
 
@@ -140,7 +142,7 @@ DEEP THOUGHT VENTURES 42 INC does not grant you any other rights whatsoever in r
 
 (d) Nothing contained in this Website is to be construed as a solicitation or offer, or recommendation, to buy or sell any interest in any note or other security, or to engage in any other transaction, and the content herein does not constitute, and should not be considered to constitute, an offer of securities. No statement herein made constitutes an offer to sell or a solicitation of an offer to buy a note or other security. All information on this Website is provided and maintained by the issuers of the respective investment pools. The issuers have full responsibility. Please contact the respective issuer in case of any inquiries. We and our affiliates are not liable nor responsible for the information provided hereby.
 
-## 11. Limitation of liability
+## 9 . Limitation of liability
 
 (a) DEEP THOUGHT VENTURES 42 INC's total liability arising out of or in connection with the Services or these Terms, however arising, including under contract, tort (including negligence), in equity, under statute or otherwise, will not exceed the resupply of the Services to you.
 
@@ -150,7 +152,7 @@ DEEP THOUGHT VENTURES 42 INC does not grant you any other rights whatsoever in r
 
 &#x20;  (d) The provision of the Website or Services are not intended to create any fiduciary duties between us and the User or any third-party. To the fullest extent permissible by law, the User agrees that neither the User’s use of the Website or Services causes us or any party to owe fiduciary duties or liabilities to the User or any third party. Further, the User acknowledges and agrees to the fullest extent such duties or liabilities are afforded by law or by equity, those duties and liabilities are hereby irrevocably disclaimed, waived, and eliminated, and that we and any other parties shall be held completely harmless in relation thereof. The User further agrees that the only duties and obligations that we or any party owes the User, and the only rights the User has related to this Terms or the User’s use of the Website or Services, are those set out expressly in this Terms.
 
-## 12. Termination Of Contact&#x20;
+## 10. Termination Of Contact&#x20;
 
 (a) The Terms will continue to apply until terminated by either you or by DEEP THOUGHT VENTURES 42 INC as set out below.
 
@@ -168,7 +170,7 @@ DEEP THOUGHT VENTURES 42 INC does not grant you any other rights whatsoever in r
 
 
 
-## 13. Indemnity
+## 11. Indemnity
 
 (a) You agree to indemnify DEEP THOUGHT VENTURES 42 INC, its affiliates, employees, agents, contributors, third party content providers and licensors from and against:
 
@@ -178,7 +180,7 @@ DEEP THOUGHT VENTURES 42 INC does not grant you any other rights whatsoever in r
 
 &#x20;      (iii) any breach of the Terms.
 
-## 14. Dispute Resolution
+## 12. Dispute Resolution
 
 (a) Compulsory:
 
@@ -208,15 +210,15 @@ On receipt of that notice ('Notice') by that other party, the parties to the Ter
 
 If 30 have elapsed after the start of a mediation of the Dispute and the Dispute has not been resolved, either Party may ask the mediator to terminate the mediation and the mediator must do so.
 
-## 15. Venue and Jurisdiction
+## 13. Venue and Jurisdiction
 
 (a) The Services offered by DEEP THOUGHT VENTURES 42 INC is intended to be viewed by residents outside of countries where the Services are illegal, such as Crimea, Donetsk, or Luhansk regions of Ukraine or the nations of Iran, North Korea, Cuba, Syria, Sudan, or if the User is otherwise subject to economic sanctions or listed as a Specially Designated National by the United States Office of Foreign Asset Control (OFAC). In the event of any dispute arising out of or in relation to the Website, you agree that the exclusive venue for resolving any dispute shall be in the courts of British Virgin Islands.
 
-## 16. Governing Law
+## 14. Governing Law
 
 (a) The Terms are governed by the laws of British Virgin Islands. Any dispute, controversy, proceeding or claim of whatever nature arising out of or in any way relating to the Terms and the rights created hereby shall be governed, interpreted and construed by, under and pursuant to the laws of British Virgin Islands, without reference to conflict of law principles, notwithstanding mandatory rules. The validity of this governing law clause is not contested. The Terms shall be binding to the benefit of the parties hereto and their successors and assigns
 
-## 17. Independent Legal Advice and Acknowledgement
+## 15. Independent Legal Advice and Acknowledgement
 
 (a) Both parties confirm and declare that the provisions of the Terms are fair and reasonable and both parties having taken the opportunity to obtain independent legal advice and declare the Terms are not against public policy on the grounds of inequality or bargaining power or general grounds of restraint of trade.
 
@@ -224,19 +226,19 @@ If 30 have elapsed after the start of a mediation of the Dispute and the Dispute
 
 (c) By accessing and using the Website and Service, the User acknowledges the foregoing and agrees and represents that it understands such and other risks involved with blockchains, Oppy chain and the Website. The User further represents that it has all knowledge sufficient to work, and is informed of all foreseeable risks, and the possibility of unforeseeable risks, associated with blockchains, crypto-assets, Web3 Utilities, smart contracts, Services and the Website. The User further acknowledges that any crypto-assets the User places or uses within the Website and Services may increase or decrease in value rapidly while they are involved with the Website and Services, or be obtained by other parties or otherwise lost in ways the User may or may not currently foresee (possibly to the User’s severe harm or detriment). The User agrees that we are not responsible for any of these (or related) risks, do not own or control the Website and Services, and cannot be held liable for any resulting harms, damages, or losses incurred by or against the User experiences while accessing or using the Website and Services. Accordingly, the User acknowledges the foregoing, represents its understanding of the foregoing, and agrees to assume full responsibility for all the risks of accessing and using the Website and interacting with the Services, whether mentioned in this section or otherwise. The User further expressly waives and releases us from any and all liability, claims, causes of action, or damages arising from or in any way relating to the User’s use of the Website and Services. If the User is a California resident, the User waives the benefits and protections of California Civil Code § 1542, which states: “\[a] general release does not extend to claims that the creditor or releasing party does not know or suspect to exist in his or her favor at the time of executing the release and that, if known by him or her, would have materially affected his or her settlement with the debtor or released party.”
 
-## 18. Entire Agreement
+## 16. Entire Agreement
 
 (a)The Terms and any document incorporated by reference herein constitute the sole and entire agreement between the User and Us regarding the Website and Services, and supersede all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, regarding the Website and Services.
 
-## 19. Severance
+## 17. Severance
 
 &#x20;(a) If any part of these Terms is found to be void or unenforceable by a Court of competent jurisdiction, that part shall be severed and the rest of the Terms shall remain in force.
 
-## 20. Assignment
+## 18. Assignment
 
 (a) The Terms may be assigned without your prior consent to any DEEP THOUGHT VENTURES 42 INC associate, or to its successors in the interest of any business associated with the Services provided by us. You may not assign or transfer any rights or obligations under the Terms.
 
-## 21. Waiver of Injunctive or Other Equitable Relief
+## 19. Waiver of Injunctive or Other Equitable Relief
 
 (a) TO THE MAXIMUM EXTENT PERMITTED BY LAW, YOU AGREE THAT YOU WILL NOT BE PERMITTED TO OBTAIN AN INJUNCTION OR OTHER EQUITABLE RELIEF OF ANY KIND, SUCH AS ANY COURT OR OTHER ACTION THAT MAY INTERFERE WITH OR PREVENT THE DEVELOPMENT OR EXPLOITATION OF THE SERVICES, OR ANY OTHER WEBSITE, APPLICATION, CONTENT, SUBMISSION, PRODUCT, SERVICE, OR INTELLECTUAL PROPERTY OWNED, LICENSED, USED OR CONTROLLED BY ANY DEEP THOUGHT VENTURES 42 INC INDEMNIFIED PARTY.
 
