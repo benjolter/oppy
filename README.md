@@ -1,5 +1,5 @@
 ---
-description: Cross-Chain DEX and Real-World Assets Bridge To Crypto
+description: Re-Define DEX, Bridges and DeFi
 ---
 
 # What Is OPPY?
