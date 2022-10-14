@@ -13,6 +13,7 @@
   * [The Difference Between OPPY And Osmosis](introduction/why-oppy/the-difference-between-oppy-and-osmosis.md)
   * [The Difference Between OPPY And Other Bridges](introduction/why-oppy/the-difference-between-oppy-and-other-bridges.md)
 * [OPPY Economics](introduction/oppy-economics/README.md)
+  * [Page 1](introduction/oppy-economics/page-1.md)
   * [Bridge Fees](introduction/oppy-economics/bridge-fees.md)
   * [Swap Fees](introduction/oppy-economics/swap-fees.md)
   * [Exit Fees](introduction/oppy-economics/exit-fees.md)
