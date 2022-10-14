@@ -6,4 +6,4 @@
 
 
 
-​**​**OPPY already connected BSC smart chain to OPPY, and connected OPPY to other Cosmos Ecosystem tokens via IBC. Current codes include forked codes from Osmosis for swap, pools which were audited via Certik. The bridge codes will be audited when further developments are done for other chains such as Ethereum and Polygon etc.
+​**​**OPPY has already connected BSC to OPPY, and connected OPPY to other Cosmos Ecosystem tokens via IBC. Current codes include forked codes from Osmosis for swap, pools which were audited via Certik. The bridge codes will be audited when further developments are done for other chains such as Ethereum and Polygon etc.

@@ -46,12 +46,12 @@ It is good for the liquidity providers in the pools if the total incentives for 
 
 &#x20;
 
-| No of Assets (e.g., BTC, ATOM) | No of Pool ( Arbitrary Pairs) | <p>No. of Pools</p><p>(OPPY Pairs)</p><p> </p> |
-| ------------------------------ | ----------------------------- | ---------------------------------------------- |
-| n                              | No of Pools =n\*(n-1)/2       | No of Pools=n                                  |
-| 10                             | 45                            | 10                                             |
-| 100                            | 4950                          | 100                                            |
-| 200(IBC tokens alone)          | 19900                         | 200                                            |
+| No. Of Assets (e.g., BTC, ATOM) | No. Of Pool (Arbitrary Pairs) | <p>No. of Pools</p><p>(OPPY Pairs)</p><p> </p> |
+| ------------------------------- | ----------------------------- | ---------------------------------------------- |
+| n                               | No of Pools =n\*(n-1)/2       | No of Pools=n                                  |
+| 10                              | 45                            | 10                                             |
+| 100                             | 4950                          | 100                                            |
+| 200(IBC tokens alone)           | 19900                         | 200                                            |
 
 &#x20;****&#x20;
 
