@@ -19,6 +19,7 @@
   * [Exit Fees](introduction/oppy-economics/exit-fees.md)
   * [Transaction Fees (Gas Fees)](introduction/oppy-economics/transaction-fees-gas-fees.md)
   * [Tokenomics](introduction/oppy-economics/tokenomics.md)
+  * [Page 2](introduction/oppy-economics/page-2.md)
 
 ## How OPPY Works
 
