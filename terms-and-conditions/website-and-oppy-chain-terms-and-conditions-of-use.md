@@ -8,7 +8,7 @@
 
 (b) The Website is operated by DEEP THOUGHT VENTURES 42 INC. (or ‘We’ or ‘Us’) Access to and use of the Website, or any of its associated products or Services, is provided by DEEP THOUGHT VENTURES 42 INC. Please read these terms and conditions (the 'Terms') carefully. By using, browsing and/or reading the Website, this signifies that you have read, understood and agree to be bound by the Terms. If you do not agree with the Terms, you must cease usage of the Website, or any of Services, immediately.
 
-(c) DEEP THOUGHT VENTURES 42 INC reserves the right to review and change any of the Terms by updating this page at its sole discretion. When DEEP THOUGHT VENTURES 42 INC updates the Terms, it will use reasonable endeavors to provide you with notice of updates to the Terms. Any changes to the Terms take immediate effect from the date of their publication. Before you continue, we recommend you keep a copy of the Terms for your records.
+(c) DEEP THOUGHT VENTURES 42 INC reserves the right to review and change any of the Terms by updating this page at its sole discretion. When DEEP THOUGHT VENTURES 42 INC updates the Terms, it will use reasonable endeavors to provide you with notice of updates to the Terms. Any changes to the Terms take immediate effect from the date of their publication.&#x20;
 
 ## &#x20; About OPPY Chain
 
