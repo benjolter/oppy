@@ -212,7 +212,7 @@ If 30 have elapsed after the start of a mediation of the Dispute and the Dispute
 
 ## 13. Venue and Jurisdiction
 
-(a) The Services offered by DEEP THOUGHT VENTURES 42 INC is intended to be viewed by residents outside of countries where the Services are illegal, such as Crimea, Donetsk, or Luhansk regions of Ukraine or the nations of Iran, North Korea, Cuba, Syria, Sudan, or if the User is otherwise subject to economic sanctions or listed as a Specially Designated National by the United States Office of Foreign Asset Control (OFAC). In the event of any dispute arising out of or in relation to the Website, you agree that the exclusive venue for resolving any dispute shall be in the courts of British Virgin Islands.
+(a) The Services offered by DEEP THOUGHT VENTURES 42 INC is intended to be viewed by residents outside of countries where the Services are illegal, such as Crimea, Donetsk, or Luhansk regions of Ukraine or the nations of Iran, North Korea, Cuba, Syria, Sudan, or if the User is otherwise subject to economic sanctions or listed as a Specially Designated National by the United States Office of Foreign Asset Control (OFAC). In the event of any dispute arising out of or in relation to the Website or Services, you agree that the exclusive venue for resolving any dispute shall be in the courts of British Virgin Islands.
 
 ## 14. Governing Law
 
