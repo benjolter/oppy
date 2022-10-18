@@ -122,7 +122,7 @@ DEEP THOUGHT VENTURES 42 INC does not grant you any other rights whatsoever in r
 
 ## 8. General Disclaimer
 
-(a) We may update the content on, design of, or functionalities and Services available through this Website from time to time without notice, but the Website is not necessarily complete or up-to-date. Any of the material on the Website may be out of date at any given time, and we are under no obligation to update such material.&#x20;
+(a) We may update the content on, design of, or functionalities and Services available through this Website from time to time without notice, but the Website is not necessarily complete or up-to-date. Any of the material on the Website may be out of date or not accurate at any given time, and we are under no obligation to update such material and No guarantee, representation or warranty is made as to its accuracy or completeness..&#x20;
 
 (b) Subject to this clause, and to the extent permitted by law:
 
