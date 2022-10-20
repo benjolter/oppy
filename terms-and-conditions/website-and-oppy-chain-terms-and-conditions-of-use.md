@@ -14,6 +14,8 @@
 
 (d) OPPY is a decentralized peer-to-peer blockchain that people can use to create liquidity and trade cross chain tokens. The OPPY blockchain is made up of free, public, and open-source software. Your use of OPPY involves various risks, including, but not limited, to losses while digital assets are being supplied to OPPY pools and losses due to the fluctuation of prices of tokens in a trading pair or liquidity pool, including Impermanent Loss. Before using any pool on the OPPY blockchain, you should review the relevant documentation to make sure you understand how OPPY works, and the pool you use on OPPY works. Additionally, just as you can access email protocols, such as SMTP, through multiple email clients, you can access pools on OPPY through several web or mobile interfaces. You are responsible for doing your own diligence on those interfaces to understand the fees and risks they present.
 
+(e) Blockchain is a rapidly changing technology. The crypto industry also involves rapidly changing business models. We and OPPY reserve the right to make changes to our technology and business models, including but not limited to developing new Products and Services for broad applications, or moving to other blockchains or chaning to other blockchain applications completely.
+
 
 
 ## 2. Acceptance Of The Terms
@@ -122,7 +124,7 @@ DEEP THOUGHT VENTURES 42 INC does not grant you any other rights whatsoever in r
 
 ## 8. General Disclaimer
 
-(a) We may update the content on, design of, or functionalities and Services available through this Website from time to time without notice, but the Website is not necessarily complete or up-to-date. Any of the material on the Website may be out of date or not accurate at any given time, and we are under no obligation to update such material and No guarantee, representation or warranty is made as to its accuracy or completeness..&#x20;
+(a) We may update the content on, design of, or functionalities and Services available through this Website from time to time without notice, but the Website is not necessarily complete or up-to-date. Any of the material on the Website may be out of date or not accurate at any given time, and we are under no obligation to update such material and no guarantee, representation or warranty is made as to its accuracy or completeness.&#x20;
 
 (b) Subject to this clause, and to the extent permitted by law:
 
@@ -238,9 +240,11 @@ If 30 have elapsed after the start of a mediation of the Dispute and the Dispute
 
 (a) The Terms may be assigned without your prior consent to any DEEP THOUGHT VENTURES 42 INC associate, or to its successors in the interest of any business associated with the Services provided by us. You may not assign or transfer any rights or obligations under the Terms.
 
-## 19. Waiver of Injunctive or Other Equitable Relief
+## 19. Waiver of Class Action,Injunctive or Other Equitable Relief
 
-(a) TO THE MAXIMUM EXTENT PERMITTED BY LAW, YOU AGREE THAT YOU WILL NOT BE PERMITTED TO OBTAIN AN INJUNCTION OR OTHER EQUITABLE RELIEF OF ANY KIND, SUCH AS ANY COURT OR OTHER ACTION THAT MAY INTERFERE WITH OR PREVENT THE DEVELOPMENT OR EXPLOITATION OF THE SERVICES, OR ANY OTHER WEBSITE, APPLICATION, CONTENT, SUBMISSION, PRODUCT, SERVICE, OR INTELLECTUAL PROPERTY OWNED, LICENSED, USED OR CONTROLLED BY ANY DEEP THOUGHT VENTURES 42 INC INDEMNIFIED PARTY.
+(a) USER IRREVOCABLY WAIVES ANY RIGHT USER MAY HAVE TO SERVE AS A REPRESENTATIVE OR AS A PRIVATE ATTORNEY GENERAL, OR TO PARTICIPATE AS A MEMBER OF A CLASS OF CLAIMANTS, IN ANY LAWSUIT, ARBITRATION OR OTHER PROCEEDING AGAINST ANY US AND ANY OF OUR ASSOCIATES ARISING FROM, RELATED TO OR CONNECTED WITH THIS AGREEMENT, OR ANY SERVICE OR PRODUCT.
+
+(b) TO THE MAXIMUM EXTENT PERMITTED BY LAW, YOU AGREE THAT YOU WILL NOT BE PERMITTED TO OBTAIN AN INJUNCTION OR OTHER EQUITABLE RELIEF OF ANY KIND, SUCH AS ANY COURT OR OTHER ACTION THAT MAY INTERFERE WITH OR PREVENT THE DEVELOPMENT OR EXPLOITATION OF THE SERVICES, OR ANY OTHER WEBSITE, APPLICATION, CONTENT, SUBMISSION, PRODUCT, SERVICE, OR INTELLECTUAL PROPERTY OWNED, LICENSED, USED OR CONTROLLED BY ANY DEEP THOUGHT VENTURES 42 INC INDEMNIFIED PARTY.
 
 
 
